@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PrymeCreationViewTool::Renderer.copyright 'PrymeCreation', 'All rights reserved'
+```
 
 ## Development
 
